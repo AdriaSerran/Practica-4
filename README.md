@@ -28,7 +28,7 @@ També definirem 2 xTaskCreate, els quals serviran per a escriure tambñe per la
 ```c++
 void setup(){
 
-Serial.begin(9600);
+Serial.begin(115200);
 pinMode(LED, OUTPUT);
 semaforo= xSemaphoreCreateMutex();
 
