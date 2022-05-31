@@ -78,6 +78,7 @@ void ledOFF (void * pvParameters){
 ```
 
 COm es pot veure en ambdos vídeos, vam fer servir l'oscil·loscopi ja que estàvem tenint problemes amb els leds i conectant aquest dispositiu tambés es pot veure el canvi de HIGH a LOW.
+
 https://user-images.githubusercontent.com/101885469/171153893-4500ea80-c06d-497c-af3d-5dc6062d43d3.mp4
 
 
